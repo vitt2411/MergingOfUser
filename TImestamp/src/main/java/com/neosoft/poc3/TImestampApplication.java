@@ -17,6 +17,8 @@ public class TImestampApplication {
 		bean.saveData();
 
 		System.out.println("hello there ");
+		
+		System.out.println("heloo there 2");
 	}
 
 }
